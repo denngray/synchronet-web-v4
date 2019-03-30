@@ -1,5 +1,6 @@
+<body background="URL"> <!-- Replace URL with hot link to add background theme to webv4 -->
+<!-- example  <body background="http://i.imgur.com/v6bwz.jpg"> this will hotlink a bacground theme image, or link to image on your system -->
 <?xjs
-
     load('modopts.js');
     var settings = get_mod_options('web');
 
